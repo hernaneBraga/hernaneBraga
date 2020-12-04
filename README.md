@@ -1,5 +1,5 @@
 <h2> Hi, I'm Hernane Braga Pereira! </h2>
-<img align='right' src="cover.gif" width="230"></br>
+<img align='right' src="cover.gif" width="300"></br>
 
 <p><em>
 
