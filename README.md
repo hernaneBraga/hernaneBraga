@@ -4,7 +4,7 @@
 <p><em>
 
 <img src="certificate.png" width="20"> Systems Engineer @ <a href="https://ufmg.br/international-visitors">UFMG</a></br>
-<img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="35">  Working with ML Projects @ <a href="http://www.delt.ufmg.br/index.php/">DELT</a>
+<img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="35">  Working with ML Projects @ <a href="http://www.delt.ufmg.br/">DELT</a>
 </em></p>
 </br>
 [![Linkedin: HernaneBraga](https://img.shields.io/badge/-hernanebraga-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hernane-braga-pereira//)
