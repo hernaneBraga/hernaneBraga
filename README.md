@@ -16,9 +16,11 @@
 ---
 ## Optimization and Engineering 
 
-- __[Choosing the best way:](https://github.com/hernaneBraga/TD)__ finding the best solution for 250 instances of a multi-objective Sales Man Problem (TSP) using Simulated Annealing (SA) neighborhood structures. The problem solutions were analyzed and selected using decision theory methods: Analytic Hierarchy Process (AHP), ELECTRE I, and PROMETHEE II. Undergrad project for the Decision Theory course.
+- __[The mutation repository:](https://github.com/hernaneBraga/Evolutionary_Computing)__ projects implemented on the Evolutionary Computing course using Jupyter Notebooks and Python. Genetic Algorithms (GA) are applied to solve The N-queens problem, the Knapsack problem, and the Weasel Program.  Application of Differential Evolution (DE) and Participle Optimization Swarm (PSO) methods to optimize non-convex multimodal functions. 
 
 - __[Dynamic Systems Modeling:](https://github.com/hernaneBraga/Dynamic_Systems_Modeling)__ using parametric and non-parametric methods for modeling the transfer function on a linear dynamic system. Undergrad projects for the Dynamic Systems Modeling at UFMG.
+
+- __[Choosing the best way:](https://github.com/hernaneBraga/TD)__ finding the best solution for 250 instances of a multi-objective Sales Man Problem (TSP) using Simulated Annealing (SA) neighborhood structures. The problem solutions were analyzed and selected using decision theory methods: Analytic Hierarchy Process (AHP), ELECTRE I, and PROMETHEE II. Undergrad project for the Decision Theory course.
 
 - __[Optimizing drunkness and bar bills:](https://github.com/hernaneBraga/Pesquisa-Operacional-UFMG)__ the Knapsack problem was applied to safely optimize the money spent and the Blood Alcohol Concentration (BAC). Undergrad project for Operation Research course.
 
