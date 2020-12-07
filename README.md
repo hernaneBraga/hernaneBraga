@@ -27,9 +27,11 @@
 
 - __[AceleraDev Data Science:](https://github.com/hernaneBraga/AceleraDev-Data_Science)__ Career Acceleration Program in Data Science by former Codenation, now known as Trybe.
 
-- __[Image compression:](https://github.com/hernaneBraga/Visual_Computing/tree/master/Image%20compression)__ Python notebook implementing an algorithm for image compression and decompression using frequency analysis and Huffman coding.
+- __[Pika Pika! Pikachu! (but in augmented reality):](https://github.com/hernaneBraga/Visual_Computing/tree/master/Pikachu%20augmented%20reality)__ rendering a 3D Pikachu on an augmented reality marker. Coded step-by-step in Jupyter notebook using Python, OpenCV, and OpenGL.
 
 - __[Finding stars:](https://github.com/hernaneBraga/Pattern_Recognition_UFMG)__ Pattern recognition course final project, predicting Pulsar Stars using SMOTE for data balancing, and SVM for classification.
+
+- __[Image compression:](https://github.com/hernaneBraga/Visual_Computing/tree/master/Image%20compression)__ Python notebook implementing an algorithm for image compression and decompression using frequency analysis and Huffman coding.
 
 - __[Data Structures and Algorithms:](https://github.com/hernaneBraga/Data_Structures_Algorithms)__ computer science fundamentals. Graphs, external sorting, programming paradigms, etc., implementations in C.
 
