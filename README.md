@@ -3,8 +3,9 @@
 
 <p><em>
 
-<img src="certificate.png" width="20"> Systems Engineer @ <a href="https://ufmg.br/international-visitors">UFMG</a></br>
-<img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="35"> Data Science Consultant @ <a href="https://www.bixtecnologia.com.br/bix-technology//">BIX</a>
+<img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="35"> Data Science Consultant @ <a href="https://www.bixtecnologia.com.br/bix-technology//">BIX</a></br>
+<img src="certificate.png" width="20"> Systems Engineer @ <a href="https://ufmg.br/international-visitors">UFMG</a>
+
 </em></p>
 </br>
 [![Linkedin: HernaneBraga](https://img.shields.io/badge/-hernanebraga-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hernane-braga-pereira//)
