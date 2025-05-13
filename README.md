@@ -3,7 +3,7 @@
 
 <p><em>
 
-<img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="35"> Head of Data Science @ <a href="https://www.bixtecnologia.com.br/bix-technology//">BIX</a></br>
+<img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="35"> Data Science Tech Lead @ <a href="https://www.turing.com/">Turing</a></br>
 <img src="certificate.png" width="20"> Systems Engineer @ <a href="https://ufmg.br/international-visitors">UFMG</a>
 
 </em></p>
